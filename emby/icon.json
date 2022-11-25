@@ -1,0 +1,35 @@
+{
+"name":"Emby Icon", 
+"description":"via X €", 
+"icons":
+    [
+        {"name":"2D", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/emby/2D.png"},
+        {"name":"NFMin", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/emby/NFMin.png"},
+        {"name":"bigdongdong", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/emby/bigdongdong.png"},
+        {"name":"bluesea", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/emby/bluesea.png"},
+        {"name":"catfish", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/emby/catfish.png"},
+        {"name":"cc", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/emby/cc.png"},
+        {"name":"charon", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/emby/charon.png"},
+        {"name":"curly mouse iptv", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/emby/curly mouse iptv.png"},
+        {"name":"curly mouse", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/emby/curly mouse.png"},
+        {"name":"embyx", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/emby/embyx.png"},
+        {"name":"free", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/emby/free.png"},
+        {"name":"gfw", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/emby/gfw.png"},
+        {"name":"hxd", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/emby/hxd.png"},
+        {"name":"infinity", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/emby/infinity.png"},
+        {"name":"midsummer", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/emby/midsummer.png"},
+        {"name":"miskaf", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/emby/miskaf.png"},
+        {"name":"mistry+", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/emby/mistry+.png"},
+        {"name":"mistry", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/emby/mistry.png"},
+        {"name":"mjj", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/emby/mjj.png"},
+        {"name":"nako", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/emby/nako.png"},
+        {"name":"odyssey", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/emby/odyssey.png"},
+        {"name":"orange", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/emby/orange.png"},
+        {"name":"peach", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/emby/peach.png"},
+        {"name":"pinyun", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/emby/pinyun.png"},
+        {"name":"plus", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/emby/plus.png"},
+        {"name":"polo", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/emby/polo.png"},
+        {"name":"pornemby", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/emby/pronemby.png"},
+        {"name":"xmss", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/emby/xmss.png"}
+    ]
+}
