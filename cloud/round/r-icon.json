@@ -1,0 +1,13 @@
+{
+"name":"Emby Icon", 
+"description":"via X €", 
+"icons":
+    [
+        {"name":"ali", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/cloud/round/ali.png"},
+        {"name":"alist", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/cloud/round/alist.png"},
+        {"name":"baiducloud", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/cloud/round/baiducloud.png"},
+        {"name":"gdrive", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/cloud/round/gdrive.png"},
+        {"name":"jianguocloud", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/cloud/round/jianguocloud.png"},
+        {"name":"pikpak", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/cloud/round/pikpak.png"}
+    ]
+}
