@@ -8,6 +8,8 @@
         {"name":"baiducloud", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/cloud/round/baiducloud.png"},
         {"name":"gdrive", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/cloud/round/gdrive.png"},
         {"name":"jianguocloud", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/cloud/round/jianguocloud.png"},
-        {"name":"pikpak", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/cloud/round/pikpak.png"}
+        {"name":"pikpak", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/cloud/round/pikpak.png"},
+        {"name":"quark", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/cloud/round/quark.png"},
+        {"name":"quark01", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/cloud/round/quark01.png"}
     ]
 }
