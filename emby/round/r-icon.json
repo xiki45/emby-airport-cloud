@@ -36,6 +36,7 @@
         {"name":"bar", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/emby/round/bar.png"},
         {"name":"dv", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/emby/round/dv.png"},
         {"name":"nebula", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/emby/round/nebula.png"},
-        {"name":"nebula01", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/emby/round/nebula01.png"}
+        {"name":"nebula01", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/emby/round/nebula01.png"},
+        {"name":"nebula02", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/emby/round/nebula02.png"}
     ]
 }
