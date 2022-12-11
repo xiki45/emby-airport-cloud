@@ -1,0 +1,8 @@
+{
+"name":"airport Icon", 
+"description":"via X €", 
+"icons":
+    [
+        {"name":"oneday", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/airport/oneday.png"}
+    ]
+}
