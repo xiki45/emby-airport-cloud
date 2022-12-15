@@ -11,6 +11,8 @@
         {"name":"unblock", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/airport/unblock.png"},
         {"name":"selom", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/airport/selom.png"},
         {"name":"whitemoon", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/airport/whitemoon.png"},
-        {"name":"yunshen", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/airport/yunshen.png"}
+        {"name":"yunshen", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/airport/yunshen.png"},
+        {"name":"mojie", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/airport/mojie.png"},
+        {"name":"mojie01", "url":"https://raw.githubusercontent.com/xiki45/emby-airport-cloud/main/airport/mojie01.png"}
     ]
 }
